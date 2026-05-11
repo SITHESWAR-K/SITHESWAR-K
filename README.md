@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-<img align="right" width="320" height="240" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+<img align="right" width="280" height="200" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
 I am a IT student at Rajalakshmi Engineering College with a strong focus on Full Stack Development. I enjoy building efficient web applications and solving complex problems through code.<br><br>🔭 I’m currently focused on Full Stack Development<br>🌱 Learning and exploring Advanced System Architectures<br>💬 Ask me about Java, React<br>📧 Reach me at: [sitheswar-k.me](https://sitheswar-k.me)
 
