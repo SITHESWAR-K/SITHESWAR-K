@@ -1,18 +1,15 @@
-<table>
-  <tr>
-    <td width="65%" valign="top">
-      <h1>💫 About Me:</h1>
-      I am an IT student at Rajalakshmi Engineering College with a strong focus on Full Stack Development. I enjoy building efficient web applications and solving complex problems through code.<br><br>
-      🔭 I’m currently focused on Full Stack Development<br>
-      🌱 Learning and exploring Advanced System Architectures<br>
-      💬 Ask me about Java, React<br>
-      📧 Reach me at: <a href="https://sitheswar-k.me">sitheswar-k.me</a>
-    </td>
-    <td width="35%" valign="top">
-      <img src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif" width="100%">
-    </td>
-  </tr>
-</table>
+
+# 💫 About Me:
+<img align="right" width="280" height="200" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+
+I am a **IT student** at Rajalakshmi Engineering College with a strong focus on **Full Stack Development**. I enjoy building efficient web applications and solving complex problems through code.
+
+- 🔭 I’m currently focused on **Full Stack Development**
+- 🌱 Learning and exploring **Advanced System Architectures**
+- 💬 Ask me about **Java, React**
+- 📧 Reach me at: [sitheswar-k.me](https://sitheswar-k.me)
+
+<br clear="right" />
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sitheswar-k) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:k.sitheswar@gmail.com) 
